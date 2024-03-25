@@ -1,0 +1,17 @@
+project/
+│
+├── index.html
+├── contact.html
+├── product.html
+├── checkout.html
+├── account.html
+├── admin.html
+├── css/
+│   └── styles.css
+├── js/
+│   ├── auth.js
+│   ├── product.js
+│   ├── cart.js
+│   ├── user.js
+│   └── admin.js
+└── img/
